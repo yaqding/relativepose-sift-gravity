@@ -1,1 +1,3 @@
-# relativepose-sift-gravity
+# Relative pose from SIFT features and Known Gravity
+
+Coming soon...
